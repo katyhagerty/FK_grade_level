@@ -1,0 +1,5 @@
+**/.ipynb_checkpoint
+.DS_Store
+**/raw_data
+notebook.ipynb
+credentials.py
